@@ -7,7 +7,7 @@
     {
       "binding": "DB",
       "database_name": "little-blossom-db",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID"
+      "database_id": "2048e023-efac-4f95-84fd-9d954af2ddd8"
     }
   ],
   "r2_buckets": [
